@@ -1,0 +1,22 @@
+/*BASE  */
+
+body {
+    background-color: #f5fafd;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: #5b6b82;
+    margin: auto;
+}
+
+h2 {
+    color: #242f40;
+    font-size: 18px;
+ }
+
+ li {
+     font-size: 13px;
+ }
+
+ a {
+     text-decoration: none;
+ }

@@ -1,0 +1,14 @@
+/*BTN */
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    padding: 1.125rem;
+    border: 1px solid #5b6b82;
+    box-sizing: border-box;
+    border-radius: 0.145rem;
+    width: 15.813rem;
+    
+}

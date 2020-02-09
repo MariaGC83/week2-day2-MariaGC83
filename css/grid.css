@@ -1,0 +1,15 @@
+/* CONTAINER */
+
+.container {
+    position: absolute;
+    display: grid;
+    max-width: 1030px;
+    margin: 0 auto;
+}
+
+ @media (min-width: 768px) {
+        .container {
+            grid-template-columns: repeat(2, 1fr);
+        }
+}
+

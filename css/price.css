@@ -1,0 +1,36 @@
+/*PRICE */
+
+.price {
+    display: inline-block;
+    align-items: center;
+    width: 137px;
+    height: 82px;
+    left: 92px;
+    padding-top: 29px;    
+}
+
+.price__symbol {
+    font-size: 32px;
+    line-height: 40px;
+    color: #242f40;
+    height: 2.5rem;
+    width: 13.07rem;   
+}
+
+.price__number {
+    color: #242f40;
+    font-weight: bold;
+    font-size: 65px;
+    padding-left: 0.121rem;
+    height: 5.125rem;
+    width: 4.313rem;
+}
+
+.price__time {
+    width: 2.188rem;
+    height: 1.563rem;
+    font-size: 20px;
+    color: #5b6b82;
+    line-height: 25px;
+
+}
